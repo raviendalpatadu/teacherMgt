@@ -1,0 +1,48 @@
+.badge{
+    border-radius: 16px;
+    padding: 4px 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.dote
+{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.background-green{
+    background-color: #47B2FF26;
+}
+
+.background-red{
+    background-color: #FF4D4D26;
+}
+
+.background-yellow{
+    background-color: #FFC23326;
+}
+
+.background-blue{
+    background-color: #47B2FF26;
+}
+
+.background-purple{
+    background-color: #B247FF26;
+}
+
+.background-orange{
+    background-color: #FFA34726;
+}
+
+
+.text-purple{
+    color: #B247FF;
+}
+
+.bg-purple{
+    background-color: #B247FF;
+}

@@ -1,0 +1,18 @@
+.profile_img{
+    border-radius: 100px;
+}
+.profile_img img{
+    height: 40px;
+    padding-right: 10px;
+}
+
+.name{
+    font-size: 13px;
+    padding: 0px;
+    color: #000;
+}
+
+.handle{
+    font-size: 12px;
+    color: #999;
+}
